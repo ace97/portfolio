@@ -116,7 +116,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
+            label: ''
             url: 'https://codepen.io/'
         styles:
           self:
