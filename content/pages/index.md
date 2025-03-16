@@ -27,7 +27,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/IMG_20240911_145008_337.jpg
-      altText: altText of the image
+      altText: ''
       caption: Caption of the image
       elementId: ''
     colors: colors-a
