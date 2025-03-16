@@ -48,7 +48,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/tcs.webp
+        url: /images/Tata_Consultancy_Services_Logo.svg
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
