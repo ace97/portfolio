@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'I’m a Developer, Data Scientist and .'
+    title: 'Hi, my name is Anirudh. I enjoy solving problems and working with data.'
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
