@@ -88,7 +88,7 @@ sections:
           - pb-48
           - pl-4
           - pr-4
-        textAlign: center
+        textAlign: right
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
