@@ -26,7 +26,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/img.jpg
+      url: /images/IMG_20220626_160758_225.jpg
       altText: ''
       caption: Caption of the image
       elementId: ''
