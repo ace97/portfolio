@@ -12,8 +12,8 @@ sections:
   - type: HeroSection
     title: 'Hi, my name is Anirudh. I enjoy solving problems and working with data.'
     subtitle: >-
-      I'm currently a Data Analyst working with healthcare data and impacting
-      the lives of millions.
+      I'm currently a Data Analyst at IQVIA working with healthcare data and
+      impacting the lives of millions.
     actions:
       - type: Button
         label: Contact me
