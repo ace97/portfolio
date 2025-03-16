@@ -9,31 +9,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: 'Hi, my name is Anirudh. I enjoy solving problems and working with data.'
-    subtitle: >-
-      I'm currently a Data Analyst working with healthcare data and impacting
-      the lives of millions.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        flexDirection: row-reverse
-        textAlign: left
-    type: HeroSection
-    actions: []
   - type: HeroSection
     title: >-
       I'm a developer, digital artist, consultant and a bunch of other
@@ -72,6 +47,31 @@ sections:
           - pr-4
         flexDirection: row
         textAlign: left
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: 'Hi, my name is Anirudh. I enjoy solving problems and working with data.'
+    subtitle: >-
+      I'm currently a Data Analyst working with healthcare data and impacting
+      the lives of millions.
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        flexDirection: row-reverse
+        textAlign: left
+    type: HeroSection
+    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
