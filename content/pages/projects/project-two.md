@@ -11,6 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
+  url: /images/bg2.jpg
 media:
   type: ImageBlock
   url: /images/bg2.jpg

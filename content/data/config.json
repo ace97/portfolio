@@ -10,6 +10,16 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "Home",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "About Me",
                 "url": "/info"
             },
