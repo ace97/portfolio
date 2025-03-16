@@ -16,7 +16,7 @@ sections:
       the lives of millions.
     actions:
       - type: Button
-        label: Hire me
+        label: Contact me
         altText: ''
         url: /
         showIcon: true
