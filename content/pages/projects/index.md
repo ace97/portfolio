@@ -1,7 +1,7 @@
 ---
 type: ProjectFeedLayout
 title: Projects
-colors: colors-d
+colors: colors-a
 backgroundImage:
   type: BackgroundImage
   backgroundSize: cover
