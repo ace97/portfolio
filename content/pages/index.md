@@ -18,7 +18,7 @@ sections:
       - type: Button
         label: Contact me
         altText: ''
-        url: /
+        url: 'mailto:anirudhce@gmail.com'
         showIcon: true
         icon: arrowRight
         iconPosition: right
