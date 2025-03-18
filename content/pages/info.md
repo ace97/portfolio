@@ -42,7 +42,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'I have worked with these folks:'
     images:
       - type: ImageBlock
         url: /images/tata-consultancy-services-1.svg
