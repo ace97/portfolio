@@ -144,7 +144,7 @@ sections:
       - type: Label
         label: ''
       - type: Label
-        label: Swift
+        label: Salesforece
       - type: Label
         label: Terraform
         url: 'https://www.credly.com/badges/d5705fac-70f9-4d1c-bc2f-24ccbb28c30b'
