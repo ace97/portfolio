@@ -130,6 +130,9 @@ sections:
       - type: Label
         label: SQL
       - type: Label
+        label: Shell Script
+        url: ''
+      - type: Label
         label: AWS
         url: >-
           https://www.credly.com/badges/32731a20-55ff-4ed6-afac-f535aba878d7/public_url
@@ -150,9 +153,6 @@ sections:
         url: 'https://www.credly.com/badges/d5705fac-70f9-4d1c-bc2f-24ccbb28c30b'
       - type: Label
         label: Git
-        url: ''
-      - type: Label
-        label: Shell Script
         url: ''
   - type: DividerSection
     styles:
