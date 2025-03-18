@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Extracting Structured Data From PDFs using RAG
 colors: colors-a
 date: '2021-10-15'
 client: Me
