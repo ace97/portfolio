@@ -201,18 +201,12 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
+        text: |
           **2015-2018**
 
-          * ba computer sciense at a semi fancy school
+          *   B.Tech Computer Science & Engineering @ KTU
 
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
+          ****
         styles:
           self:
             textAlign: left
