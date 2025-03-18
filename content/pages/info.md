@@ -188,15 +188,13 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |+
-          **Current**
+          **2024-Current**
 
           *   Data Analyst @ IQVIA
 
           **2021-2019**
 
           *   Assistant Systems Engineer @ Tata Consultancy Services
-
-
 
         styles:
           self:
