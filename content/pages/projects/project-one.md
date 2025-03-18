@@ -5,7 +5,7 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  n this short project. I attempt to create a RAG application that can parse a
+  In this short project. I attempt to create a RAG application that can parse a
   PDF document (in this case from research papers) and extract the main
   information from it in a structured tabular form.
 featuredImage:
