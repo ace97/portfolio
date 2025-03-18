@@ -134,7 +134,7 @@ sections:
         url: >-
           https://www.credly.com/badges/32731a20-55ff-4ed6-afac-f535aba878d7/public_url
       - type: Label
-        label: Next.js
+        label: Azure
       - type: Label
         label: Netlify
       - type: Label
