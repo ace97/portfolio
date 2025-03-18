@@ -135,6 +135,8 @@ sections:
           https://www.credly.com/badges/32731a20-55ff-4ed6-afac-f535aba878d7/public_url
       - type: Label
         label: Azure
+        url: >-
+          https://learn.microsoft.com/api/credentials/share/en-us/AnirudhCE-9623/C520E855D02909F8?sharingId=34481345BFF48BA3
       - type: Label
         label: Netlify
       - type: Label
