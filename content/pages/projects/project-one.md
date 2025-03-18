@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Extracting Structured Data From PDFs using RAG
+title: Extracting Structured Data From PDF using RAG
 colors: colors-a
 date: '2021-10-15'
 client: Me
