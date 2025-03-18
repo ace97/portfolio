@@ -139,6 +139,8 @@ sections:
           https://learn.microsoft.com/api/credentials/share/en-us/AnirudhCE-9623/C520E855D02909F8?sharingId=34481345BFF48BA3
       - type: Label
         label: Power BI
+        url: >-
+          https://learn.microsoft.com/api/credentials/share/en-us/AnirudhCE-9623/40BEAC6410CED292?sharingId=34481345BFF48BA3
       - type: Label
         label: C++
       - type: Label
