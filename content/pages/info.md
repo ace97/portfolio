@@ -204,9 +204,7 @@ sections:
         text: |+
           **2021-2023**
 
-          *   B.Tech Computer Science & Engineering @ KTU
-
-
+          *   P.G. in Data Analytics @ St. Clair College
 
           **2015-2018**
 
