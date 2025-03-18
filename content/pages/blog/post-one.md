@@ -38,4 +38,4 @@ bottomSections:
     showFeaturedImage: true
     showReadMoreLink: true
 ---
-to be updated
+To be updated
