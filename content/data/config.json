@@ -31,7 +31,8 @@
             {
                 "type": "Link",
                 "label": "Blog",
-                "url": "/blog"
+                "url": "/blog",
+                "showIcon": true
             }
         ],
         "socialLinks": [
