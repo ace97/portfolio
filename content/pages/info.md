@@ -130,7 +130,7 @@ sections:
       - type: Label
         label: SQL
       - type: Label
-        label: Microsoft Office
+        label: AWS
       - type: Label
         label: Next.js
       - type: Label
