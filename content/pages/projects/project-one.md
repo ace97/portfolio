@@ -10,7 +10,7 @@ description: >-
   information from it in a structured tabular form.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/st_app.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
