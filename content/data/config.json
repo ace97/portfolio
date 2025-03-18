@@ -32,7 +32,7 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
-                "showIcon": true
+                "showIcon": false
             }
         ],
         "socialLinks": [
