@@ -138,14 +138,14 @@ sections:
         url: >-
           https://learn.microsoft.com/api/credentials/share/en-us/AnirudhCE-9623/C520E855D02909F8?sharingId=34481345BFF48BA3
       - type: Label
-        label: Terraform
-        url: 'https://www.credly.com/badges/d5705fac-70f9-4d1c-bc2f-24ccbb28c30b'
-      - type: Label
         label: Pancakes
       - type: Label
         label: C++
       - type: Label
         label: Swift
+      - type: Label
+        label: Terraform
+        url: 'https://www.credly.com/badges/d5705fac-70f9-4d1c-bc2f-24ccbb28c30b'
   - type: DividerSection
     styles:
       self:
