@@ -201,12 +201,19 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |
+        text: |+
+          **2021-2023**
+
+          *   B.Tech Computer Science & Engineering @ KTU
+
+
+
           **2015-2018**
 
           *   B.Tech Computer Science & Engineering @ KTU
 
-          ****
+          ***
+
         styles:
           self:
             textAlign: left
