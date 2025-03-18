@@ -151,6 +151,9 @@ sections:
       - type: Label
         label: Git
         url: ''
+      - type: Label
+        label: Shell Script
+        url: ''
   - type: DividerSection
     styles:
       self:
