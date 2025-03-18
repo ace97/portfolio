@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: "# Hi there, My name is Anirudh\U0001F44B\n\n\n\n\n\n\n\n\n\n\n\n#\n\n"
+    text: "# Hi there, My name is Anirudh\U0001F44B\n\n"
     media:
       type: ImageBlock
       url: /images/IMG_20220626_160758_225.jpg
