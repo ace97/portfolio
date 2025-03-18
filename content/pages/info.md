@@ -6,9 +6,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
-      # Site under construction
-
+    text: "# Hi there, My name is Anirudh\U0001F44B\n\n\n\n\n\n\n\n\n\n\n\n#\n\n"
     media:
       type: ImageBlock
       url: /images/IMG_20220626_160758_225.jpg
