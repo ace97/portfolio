@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Extracting Structured Data From PDF using RAG
 colors: colors-a
-date: '2022-02-01'
+date: '0202-02-01'
 client: Me
 description: >-
   In this short project. I attempt to create a RAG application that can parse a
