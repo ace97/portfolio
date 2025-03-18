@@ -6,9 +6,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
-      # Site under construction
-
+    text: "# Hi there, My name is Anirudh\U0001F44B\n\n"
     media:
       type: ImageBlock
       url: /images/IMG_20220626_160758_225.jpg
@@ -42,7 +40,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'I have worked with these folks:'
     images:
       - type: ImageBlock
         url: /images/tata-consultancy-services-1.svg
@@ -126,21 +124,34 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Python
       - type: Label
-        label: React
+        label: SQL
       - type: Label
-        label: Microsoft Office
+        label: Shell Script
+        url: ''
       - type: Label
-        label: Next.js
+        label: Git
+        url: ''
       - type: Label
-        label: Netlify
+        label: AWS
+        url: >-
+          https://www.credly.com/badges/32731a20-55ff-4ed6-afac-f535aba878d7/public_url
       - type: Label
-        label: Pancakes
+        label: Azure
+        url: >-
+          https://learn.microsoft.com/api/credentials/share/en-us/AnirudhCE-9623/C520E855D02909F8?sharingId=34481345BFF48BA3
       - type: Label
-        label: C++
+        label: Power BI
+        url: >-
+          https://learn.microsoft.com/api/credentials/share/en-us/AnirudhCE-9623/40BEAC6410CED292?sharingId=34481345BFF48BA3
       - type: Label
-        label: Swift
+        label: ''
+      - type: Label
+        label: Salesforece
+      - type: Label
+        label: Terraform
+        url: 'https://www.credly.com/badges/d5705fac-70f9-4d1c-bc2f-24ccbb28c30b'
   - type: DividerSection
     styles:
       self:
@@ -174,43 +185,31 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          **2024-Current**
 
-          * freelance @freelance.me
+          *   Data Analyst @ IQVIA
 
-          **2018-2021**
+          **2021-2019**
 
-          * fullstack at this startup
+          *   Assistant Systems Engineer @ Tata Consultancy Services
 
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
+        text: |+
+          **2021-2023**
+
+          *   P.G. in Data Analytics @ St. Clair College
+
           **2015-2018**
 
-          * ba computer sciense at a semi fancy school
+          *   B.Tech Computer Science & Engineering @ KTU
 
-          **2014**
+          ***
 
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left

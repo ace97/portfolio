@@ -1,19 +1,25 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Extracting Structured Data From PDF using RAG
 colors: colors-a
-date: '2021-10-15'
-client: Awesome client
+date: '2025-02-01'
+client: Me
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  In this short project. I attempt to create a RAG application that can parse a
+  PDF document (in this case from research papers) and extract the main
+  information from it in a structured tabular form.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project thumbnail image
+  url: /images/st_app.png
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project image
+  url: /images/st_app.png
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
