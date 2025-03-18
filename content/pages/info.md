@@ -148,6 +148,9 @@ sections:
       - type: Label
         label: Terraform
         url: 'https://www.credly.com/badges/d5705fac-70f9-4d1c-bc2f-24ccbb28c30b'
+      - type: Label
+        label: Git
+        url: ''
   - type: DividerSection
     styles:
       self:
