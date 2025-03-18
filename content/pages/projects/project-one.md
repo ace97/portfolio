@@ -3,7 +3,7 @@ type: ProjectLayout
 title: A very cool code project
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: Me
 description: >-
   In this short project. I attempt to create a RAG application that can parse a
   PDF document (in this case from research papers) and extract the main
